@@ -9,12 +9,12 @@
 
 <h2> Reqiured Packages </h2>
 
-<p style="background-color:powderblue;">
+<div style="background-color:grey;">
 <div> sudo apt-get install bison </div> 
 <div> sudo apt-get install flex </div> 
 <div> sudo apt-get install libz-dev </div> 
 <div> sudo apt-get install libboost-all-dev </div> 
 <div> sudo apt-get install gputils </div>
-</p>
+</div>
 
 
