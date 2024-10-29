@@ -2,9 +2,9 @@
 
 <h2> Fetch the  sdcc-4.4.0 source code </h2>
 <p>
-./configure 
-make 
-make install
+<div> ./configure </div> 
+<div> make </div>
+<div> make install </div>
 </p>
 
 <h2> Reqiured Packages </h2>
