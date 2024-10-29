@@ -10,11 +10,11 @@ make install
 <h2> Reqiured Packages </h2>
 
 <p>
-sudo apt-get install bison
-sudo apt-get install flex
-sudo apt-get install libz-dev
-sudo apt-get install libboost-all-dev
-sudo apt-get install gputils
+<div> sudo apt-get install bison </div> <br />
+<div> sudo apt-get install flex </div> <br />
+<div> sudo apt-get install libz-dev </div> <br />
+<div> sudo apt-get install libboost-all-dev </div> <br />
+<div> sudo apt-get install gputils </div>
 </p>
 
 
