@@ -9,8 +9,8 @@
 
 <h2> Reqiured Packages </h2>
 
-<div style="background-color:grey;">
-<div> sudo apt-get install bison </div> 
+<div style="text-color:grey;">
+<div style="background-color:grey;"> sudo apt-get install bison </div> 
 <div> sudo apt-get install flex </div> 
 <div> sudo apt-get install libz-dev </div> 
 <div> sudo apt-get install libboost-all-dev </div> 
