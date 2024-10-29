@@ -9,7 +9,7 @@
 
 <h2> Reqiured Packages </h2>
 
-<p style="background-color:grey;">
+<p style="background-color:powderblue;">
 <div> sudo apt-get install bison </div> 
 <div> sudo apt-get install flex </div> 
 <div> sudo apt-get install libz-dev </div> 
